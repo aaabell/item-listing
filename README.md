@@ -12,7 +12,7 @@
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Pull the code]
-- [Configure database, sample of env included as .env.sample]
+- [Configure database, sample of env included as .env.example]
 - [Run composer update]
 - [Run php artisan migrate]
 - [Run php artisan db:seed]
